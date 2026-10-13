@@ -1,0 +1,6 @@
+interface:
+  display_name: "图片转分层可编辑PPT"
+  short_description: "将页面图片重建为分层、可缩放、可编辑的 PowerPoint"
+  default_prompt: "使用 $image-to-editable-pptx 将这些页面图片还原为高保真、分层、可编辑的 PPTX。"
+policy:
+  allow_implicit_invocation: false
